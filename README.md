@@ -1,6 +1,6 @@
 - 👋  Hi, I’m Arman and this is my script repository.
 - 📈  I’m interested in creating financial codes and share the scripts for my academic papers here.
-- 🔍  You can get the abstracts for each project under "Wiki" tabs.
+- 🔍  You can get a brief intro for each project under "Wiki" tabs.
 - 🧐  I’m looking to collaborate on econometrics, algorithmic trading, high-frequency data, and new machine learning techniques.
 - 📫  You can reach me via hassannia@outlook.com
 <!---
