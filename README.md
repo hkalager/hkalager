@@ -1,5 +1,5 @@
-- 👋  Hi, I’m Arman and this is my script repository.
-- 📈  I’m interested in creating financial scripts and share those here.
+- 👋  Hi, I’m Arman and this is my personal script repository. 
+- 📈  The codes here are from my time doing academic research and does not contain any commerical value.
 - 🔍  You can get a brief intro for each project under "Wiki" tabs.
 - 📫  You can reach me via hassannia[at]outlook[dot]com
 <!---
